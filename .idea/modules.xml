@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AccCreator/.idea/AccCreator.iml" filepath="$PROJECT_DIR$/../AccCreator/.idea/AccCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Runetrader/.idea/Runetrader.iml" filepath="$PROJECT_DIR$/../Runetrader/.idea/Runetrader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lyrics/.idea/lyrics.iml" filepath="$PROJECT_DIR$/../lyrics/.idea/lyrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snek/.idea/snek.iml" filepath="$PROJECT_DIR$/../snek/.idea/snek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/timer.iml" filepath="$PROJECT_DIR$/.idea/timer.iml" />
+    </modules>
+  </component>
+</project>

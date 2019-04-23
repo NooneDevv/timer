@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../AccCreator/.idea/AccCreator.iml" filepath="$PROJECT_DIR$/../AccCreator/.idea/AccCreator.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Runetrader/.idea/Runetrader.iml" filepath="$PROJECT_DIR$/../Runetrader/.idea/Runetrader.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lyrics/.idea/lyrics.iml" filepath="$PROJECT_DIR$/../lyrics/.idea/lyrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ocr/.idea/ocr.iml" filepath="$PROJECT_DIR$/../ocr/.idea/ocr.iml" />
       <module fileurl="file://$PROJECT_DIR$/../snek/.idea/snek.iml" filepath="$PROJECT_DIR$/../snek/.idea/snek.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/timer.iml" filepath="$PROJECT_DIR$/.idea/timer.iml" />
     </modules>

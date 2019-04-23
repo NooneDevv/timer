@@ -10,6 +10,7 @@
     <orderEntry type="module" module-name="snek" />
     <orderEntry type="module" module-name="AccCreator" />
     <orderEntry type="module" module-name="Runetrader" />
+    <orderEntry type="module" module-name="ocr" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

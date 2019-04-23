@@ -2,7 +2,7 @@ import time
 import tkinter as tk
 from tkinter.scrolledtext import ScrolledText
 import sys
-
+#test
 running = True
 counting = False
 
